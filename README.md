@@ -15,8 +15,8 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 
 ## Direct Links to tutorial notebooks
 
-* __[Introduction to Programming Tools](https://github.com/mm-nasr/ece457b_comp_int/tree/master/01_Intro)__
+* __[Introduction to Programming Tools](https://github.com/mm-nasr/ece457b_winter2021/tree/master/01_Intro)__
 
-	1- __[Numpy and Matplotlib](https://github.com/mm-nasr/ece457b_comp_int/blob/master/01_Intro/numpy_matplotlib.ipynb)__
+	1- __[Numpy and Matplotlib](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/numpy_matplotlib.ipynb)__
 
-	2- __[Tensorflow](https://github.com/mm-nasr/ece457b_comp_int/blob/master/01_Intro/tensorflow.ipynb)__
+	2- __[Tensorflow](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/tensorflow.ipynb)__
