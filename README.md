@@ -20,3 +20,9 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 	1- __[Numpy and Matplotlib](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/numpy_matplotlib.ipynb)__
 
 	2- __[Tensorflow](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/tensorflow.ipynb)__
+
+* __[Multi-Layer Perceptrons](https://github.com/mm-nasr/ece457b_winter2021/tree/master/03_Multi-Layer%20Perceptrons)__
+	
+	1- __[Multi-Layer Perceptrons and Overfitting](https://github.com/mm-nasr/ece457b_winter2021/tree/master/03_Multi-Layer%20Perceptrons/mlp_mnist.ipynb)__
+	
+	2- __[Fashion-MNIST](https://github.com/mm-nasr/ece457b_winter2021/tree/master/03_Multi-Layer%20Perceptrons/mlp_fashionmnist.ipynb)__
