@@ -15,16 +15,16 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 
 ## Direct Links to tutorial notebooks
 
-* __[Introduction to Programming Tools](https://github.com/mm-nasr/ece457b_winter2021/tree/master/01_Intro)__
+* __[Introduction to Programming Tools](https://github.com/mm-nasr/ece457b_winter2021/tree/main/01_Intro)__
 
-	1- __[Numpy and Matplotlib](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/numpy_matplotlib.ipynb)__
+	1- __[Numpy and Matplotlib](https://github.com/mm-nasr/ece457b_winter2021/blob/main/01_Intro/numpy_matplotlib.ipynb)__
 
-	2- __[Tensorflow](https://github.com/mm-nasr/ece457b_winter2021/blob/master/01_Intro/tensorflow.ipynb)__
+	2- __[Tensorflow](https://github.com/mm-nasr/ece457b_winter2021/blob/main/01_Intro/tensorflow.ipynb)__
 
-* __[Multi-Layer Perceptrons](https://github.com/mm-nasr/ece457b_winter2021/tree/master/02_Multi-Layer%20Perceptrons)__
+* __[Multi-Layer Perceptrons](https://github.com/mm-nasr/ece457b_winter2021/tree/main/02_Multi-Layer%20Perceptrons)__
 
-	1- __[Multi-Layer Perceptrons and Overfitting](https://github.com/mm-nasr/ece457b_winter2021/tree/master/02_Multi-Layer%20Perceptrons/mlp_mnist.ipynb)__
+	1- __[Multi-Layer Perceptrons and Overfitting](https://github.com/mm-nasr/ece457b_winter2021/tree/main/02_Multi-Layer%20Perceptrons/mlp_mnist.ipynb)__
 	
-	2- __[Fashion-MNIST](https://github.com/mm-nasr/ece457b_winter2021/tree/master/02_Multi-Layer%20Perceptrons/mlp_fashionmnist.ipynb)__
+	2- __[Fashion-MNIST](https://github.com/mm-nasr/ece457b_winter2021/tree/main/02_Multi-Layer%20Perceptrons/mlp_fashionmnist.ipynb)__
 
-* __[Sklearn and the Iris Dataset](https://github.com/mm-nasr/ece457b_winter2021/tree/master/03_Iris_and_sklearn)__
+* __[Sklearn and the Iris Dataset](https://github.com/mm-nasr/ece457b_winter2021/tree/main/03_Iris_and_sklearn)__
