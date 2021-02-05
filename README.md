@@ -26,3 +26,5 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 	1- __[Multi-Layer Perceptrons and Overfitting](https://github.com/mm-nasr/ece457b_winter2021/tree/master/02_Multi-Layer%20Perceptrons/mlp_mnist.ipynb)__
 	
 	2- __[Fashion-MNIST](https://github.com/mm-nasr/ece457b_winter2021/tree/master/02_Multi-Layer%20Perceptrons/mlp_fashionmnist.ipynb)__
+
+* __[Sklearn and the Iris Dataset](https://github.com/mm-nasr/ece457b_winter2021/tree/master/03_Iris_and_sklearn)__
