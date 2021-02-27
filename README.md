@@ -28,3 +28,8 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 	2- __[Fashion-MNIST](https://github.com/mm-nasr/ece457b_winter2021/tree/main/02_Multi-Layer%20Perceptrons/mlp_fashionmnist.ipynb)__
 
 * __[Sklearn and the Iris Dataset](https://github.com/mm-nasr/ece457b_winter2021/tree/main/03_Iris_and_sklearn)__
+
+* __[KSOM and Introduction to CNNs](https://github.com/mm-nasr/ece457b_winter2021/tree/main/04_KSOM)__
+
+	1- __[Kohonen's Self Organizing Maps](https://github.com/mm-nasr/ece457b_winter2021/tree/main/04_KSOM/ksom.ipynb)__
+	2- __[Introduction to CNNs with Keras](https://github.com/mm-nasr/ece457b_winter2021/tree/main/04_KSOM/Convolutional_Neural_Networks.ipynb)__
