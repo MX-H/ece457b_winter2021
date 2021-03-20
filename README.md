@@ -36,3 +36,5 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 	2- __[Introduction to CNNs with Keras](https://github.com/mm-nasr/ece457b_winter2021/tree/main/04_KSOM/Convolutional_Neural_Networks.ipynb)__
 
 * __[Introduction to PyTorch](https://github.com/mm-nasr/ece457b_winter2021/tree/main/05_PyTorch_Intro)__
+
+* __[Fuzzy Inferencing Systems](https://github.com/mm-nasr/ece457b_winter2021/tree/main/06_FuzzyLogic)__
