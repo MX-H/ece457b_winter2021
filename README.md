@@ -39,4 +39,6 @@ Make sure to have Python version > 3.4 and < 3.8 to be able to run Tensorflow (w
 
 * __[Fuzzy Logic - Intro](https://github.com/mm-nasr/ece457b_winter2021/tree/main/06_FuzzyLogic)__
 
-* __[Fuzzy Inferencing Systems](https://github.com/mm-nasr/ece457b_winter2021/tree/main/07_FuzzyInferencing/Fuzzy_Inferencing.ipynb)
+* __[Fuzzy Inferencing Systems](https://github.com/mm-nasr/ece457b_winter2021/tree/main/07_FuzzyInferencing/Fuzzy_Inferencing.ipynb)__
+
+* __[Fuzzy Inferencing Systems - Further Examples](https://github.com/mm-nasr/ece457b_winter2021/tree/main/08_FuzzyInferencing2/)__
